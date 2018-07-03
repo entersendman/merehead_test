@@ -1,0 +1,29 @@
+.name {
+	align-items: right;
+	font-weight: bold;
+}
+.userBlock {
+	width: 60%;
+	border-radius: 5px;
+	display: flex;
+	flex: 1 2 ;
+	flex-direction: row;
+	border: 1px solid #DAB420;
+	background: #f0e1a5;
+	margin: 10px auto;
+	padding: 20px;
+}
+.desc {
+	/*width: 66%;*/
+	margin: 0 auto;
+}
+img {
+	width: 75px;
+	margin-right: 10px;
+
+}
+.avatarBlock {
+	display: flex;
+	flex-direction: column;
+
+}
